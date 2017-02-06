@@ -1,0 +1,4654 @@
+[{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+},{
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "Praesent in mauris eu tortor porttitor accumsan. Mauris suscipit, ante cursus purus, vel sagittis velit mauris vel metus. Aenean fermentum risus id tortor. Integer imperdiet lectus quis justo. Integer tempor. Vivamus ac urna vel",
+	"locataria": "hertz"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "budget"
+}, {
+	"name": "logan",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "838",
+	"pince": "838",
+	"hasDiscont": "false",
+	"discount": "",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "celta",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "838",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Manual"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}, {
+	"name": "gol",
+	"title": "carro economico com ar",
+	"rateCode": "ifmr",
+	"oldPince": "938",
+	"pince": "878",
+	"hasDiscont": "true",
+	"discount": "Desconto 30%",
+	"advantages": [{
+		"advantage": "Quilometragem livre"
+	}, {
+		"advantage": "Seguro total do Veículo"
+	}, {
+		"advantage": "Seguro a terceiros"
+	}, {
+		"advantage": "Taxas de serviços inclusas"
+	}],
+	"optionals": [{
+		"class": "icon-cab",
+		"item": "4 portas"
+	}, {
+		"class": "icon-user-1",
+		"item": "5 pessoas"
+	}, {
+		"class": "icon-suitcase",
+		"item": "Mala"
+	}, {
+		"class": "icon-modx",
+		"item": "Ar condicionado"
+	}, {
+		"class": "icon-flow-tree",
+		"item": "Automatico"
+	}, {
+		"class": "icon-signal-3",
+		"item": "Radio"
+	}, {
+		"class": "icon-steering-wheel",
+		"item": "Direção hidraulica"
+	}, {
+		"class": "icon-shuffle",
+		"item": "CD ou USB"
+	}, {
+		"class": "icon-cab",
+		"item": "4 portas"
+	}],
+	"detail": "",
+	"locataria": "hertz"
+}]

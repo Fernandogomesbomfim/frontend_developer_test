@@ -1,0 +1,35 @@
+[{
+	"item": [
+		{
+			"pagination": 10
+		},
+		{
+			"pagination": 20
+		},
+		{
+			"pagination": 50
+		},
+		{
+			"pagination": 100
+		}			
+	],
+	"orderby": [
+		{
+			"order": "Menor preço"
+		},
+		{
+			"order": "Maior preço"
+		}
+	],
+	"coins": [
+		{
+			"coin": "Real"
+		},
+		{
+			"coin": "Dolar"
+		},
+		{
+			"coin": "Euro"
+		}
+	]
+}]

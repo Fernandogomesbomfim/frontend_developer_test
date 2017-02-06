@@ -1,0 +1,202 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Poc para o processo seletivo de frontend da CVC">
+	<meta property="og:Test frontend" content="Fernando Bomfim">
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<title>Teste frontend - CVC</title>
+	<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/media/css/lib/fontello.css">
+	<link rel="stylesheet" type="text/css" href="/media/css/lib/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="media/css/carros.css">
+	<script type="text/javascript" src="media/js/lib/angular.min.js"></script>
+	<script type="text/javascript" src="media/js/controller/controller.selects.js"></script>
+</head>
+
+<body>
+	<main>
+		<div class="container" ng-app="Selects">
+			<div class="row">
+				<div class="col-sm-3 form-group search">
+					<form action="" class="form-group">
+						<label for=""><small>Local de retirada</small></label>
+						<input type="text" class="form-control form-group">
+
+						<label class="form-group">
+							<input type="checkbox">
+							Devolver o carro em outro local
+						</label>
+
+						<label for=""><small>local de devolução</small></label>
+						<input type="text" class="form-control form-group">
+
+						<label for=""><small>retirada</small></label>
+						<input type="text" class="form-control form-group">
+
+						<label for=""><small>devolição - 8 dias</small></label>
+						<input type="text" class="form-control form-group">
+
+						<div class="col-sm-12 economy form-group">
+							<span><small>Economize até 35%</small></span>
+
+							<div class="row voo-hotel">
+								<span class="voo-hotel">
+									<label>
+										<input type="checkbox"><small>incluir voo</small>
+									</label>
+									<input type="checkbox"><small>incluir hotel</small>
+								</span>
+							</div>
+						</div>
+
+						<button class="btn btn-form btn-search">Buscar</button>
+
+						<hr class="transparentHR">
+					</form>
+				</div>
+
+				<div class="col-sm-9 form-group">					
+					<div ng-controller="itensCtrl">
+						<div class="row">
+							<div class="col-sm-4 form-group">
+								<label>Itens por paginas</label>
+								<select ng-model="selectedItem" ng-options="iten for iten in itens"></select>
+							</div>
+
+							<div class="col-sm-4 form-group">
+								<label>Ordenar por:</label>
+								<select ng-model="selectedOrder" ng-options="iten for iten in orderby"></select>
+							</div>
+
+							<div class="col-sm-4 form-group">
+								<label>Moeda</label>
+								<select ng-model="selectedCoin" ng-options="iten for iten in coin"></select>
+							</div>
+						</div>
+					</div>
+					
+					<div class="row">
+						<div ng-controller="listCarts">
+							<div ng-repeat="post in posts">
+								<div class="car form-group">
+									<div class="col-sm-4 form-group cart">
+										<div class="row">
+											<div class="col-sm-12">
+												<span class="span discount-{{post.hasDiscont}}">{{post.discount}}</span>
+
+												<span class="span locataria"></span>
+											</div>
+										</div>
+
+										<img class="picture" src="media/pictures/{{post.name}}.jpg" alt="Logan" />
+									</div>
+
+									<div class="col-sm-8">
+										<div class="row">
+											<div class="col-sm-9 form-group">
+												<h3 class="less-margin-top uppercase">
+													{{post.title}}
+													<i class="icon-heart" data-ng-click="favorite($event)"></i>
+												</h3>
+
+												<dl class="dl uppercase">
+													<dd>codigo de taxa: {{post.rateCode}}</dd>
+
+													<dd>celta, gol, ford fiesta, fiat palio</dd>
+												</dl>
+
+												<dl class="dl repeat" ng-repeat="itemDD in post.advantages">
+													<dd>- {{itemDD.advantage}}</dd>
+												</dl>
+
+												<dl class="dl">
+													<dd><a data-ng-click="showDetails($event)">Ver dethales <i class="icon-plus"></i></a></dd>
+												</dl>
+											</div>
+
+											<div class="col-sm-3 rent toogle text-center form-group">
+												<div class="form-group">
+													<span class="location">Total da Alocação</span>
+
+													<span class="details">
+														por <strong>R$</strong> <span class="pince">{{post.oldPince}}</span>
+													</span>
+
+													<span>
+														por <strong>R$</strong> <span class="pince">{{post.pince}}</span>
+													</span>
+
+													<span><strong>em até 10x</strong></span>
+
+													<button class="btn btn-form btn-search">Alugar</button>
+
+													taxas inclusas
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="row form-group">
+										<div class="col-sm-9 form-group line-serie">
+											<div class="col-sm-12 form-group details">
+												<div class="row">
+													<div class="col-sm-5">
+														<hr>
+													</div>
+
+													<div class="col-sm-2">
+
+													</div>
+
+													<div class="col-sm-5">
+														<hr>
+													</div>
+												</div>
+
+												{{post.detail}}
+											</div>
+
+											<div class="row">
+												<div class="col-sm-12">
+													<div class="col-sm-12">
+														<hr>
+													</div>
+
+													<div  ng-repeat="item in filtered = (post.optionals | filter:filterExpr)" class="col-sm-4 {{post.optionals.indexOf(item) < 5 ? '' : 'details'}}">
+														<i class="{{item.class}}"></i> {{item.item}}
+													</div>												
+												</div>
+											</div>
+										</div>
+									</div>
+
+									<div class="col-sm-3 rent toogled text-center form-group">
+										<div class="form-group">
+											<span class="location">Total da Alocação</span>
+
+											<span class="details">
+												por <strong>R$</strong> <span class="pince">{{post.oldPince}}</span>
+											</span>
+
+											<span>
+												por <strong>R$</strong> <span class="pince">{{post.pince}}</span>
+											</span>
+
+											<span><strong>em até 10x</strong></span>
+
+											<button class="btn btn-form btn-search">Alugar</button>
+
+											taxas inclusas
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</main>
+</body>
+</html>
